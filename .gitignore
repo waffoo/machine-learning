@@ -1,0 +1,8 @@
+mldata/
+torch_data/
+.ipynb_checkpoints/
+hoge.ipynb
+*.txt
+*.dat
+main
+a.out
