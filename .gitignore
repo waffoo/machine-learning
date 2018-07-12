@@ -6,3 +6,4 @@ hoge.ipynb
 *.dat
 main
 a.out
+mnist_result/
