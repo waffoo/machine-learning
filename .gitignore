@@ -7,5 +7,6 @@ hoge.ipynb
 main
 a.out
 mnist_result/
+mnist_cnn/
 *.mp4
 result/
