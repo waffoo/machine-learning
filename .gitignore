@@ -10,3 +10,5 @@ mnist_result/
 mnist_cnn/
 *.mp4
 result/
+misc/
+data/
